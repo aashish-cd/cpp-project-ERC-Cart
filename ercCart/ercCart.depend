@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1629862733 source:e:\aashish-cd\erc-cart\erccart\main.cpp
+	<iostream>
+	<string.h>
+	<unistd.h>
+	<stdio.h>
+	<conio.h>
+	<fstream>
+	<iomanip>
+

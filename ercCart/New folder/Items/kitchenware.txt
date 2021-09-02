@@ -1,0 +1,2 @@
+cooker 430 langhali
+spoon 50 tata

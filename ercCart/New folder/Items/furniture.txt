@@ -1,0 +1,4 @@
+table 1200 langhali
+bed 4000 sampang
+laptoptable 560 langhali
+table 300 sampang

@@ -1,0 +1,4 @@
+electriclight 450 langhali
+powerbank 500 sampang
+laptop 20000 bargachhi
+earphone 399 bargachi
